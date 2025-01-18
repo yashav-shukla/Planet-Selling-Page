@@ -26,5 +26,9 @@ To run this project locally, follow these steps:
 - Open the web page in a browser to view the planet selling page.
 - Click on the "Buy Now" button to initiate the purchase process.
 
+## Visut this site
+
+- link : [https://mercuryy.vercel.app/]
+
 
 
